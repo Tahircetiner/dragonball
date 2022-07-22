@@ -1,0 +1,5 @@
+C:\SchulProjekte\SpieleEngine\DragonBall\bin\Debug\DragonBall.exe
+C:\SchulProjekte\SpieleEngine\DragonBall\bin\Debug\DragonBall.pdb
+C:\SchulProjekte\SpieleEngine\DragonBall\obj\Debug\DragonBall.csprojResolveAssemblyReference.cache
+C:\SchulProjekte\SpieleEngine\DragonBall\obj\Debug\DragonBall.exe
+C:\SchulProjekte\SpieleEngine\DragonBall\obj\Debug\DragonBall.pdb

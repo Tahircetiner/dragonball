@@ -1,0 +1,5 @@
+C:\SchulProjekte\SpieleEngine\SpieleEngine\bin\Debug\SpieleEngine.exe
+C:\SchulProjekte\SpieleEngine\SpieleEngine\bin\Debug\SpieleEngine.pdb
+C:\SchulProjekte\SpieleEngine\SpieleEngine\obj\Debug\SpieleEngine.csprojResolveAssemblyReference.cache
+C:\SchulProjekte\SpieleEngine\SpieleEngine\obj\Debug\SpieleEngine.exe
+C:\SchulProjekte\SpieleEngine\SpieleEngine\obj\Debug\SpieleEngine.pdb
